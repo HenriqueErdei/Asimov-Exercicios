@@ -7,4 +7,4 @@ dividir_peso_por_altura = (peso / multiplicar_altura)
 
 resultado_final = int(dividir_peso_por_altura)
 
-print("Seu IMC é {}".format(resultado_final))
+print("Seu IMC é {:.2f}".format(resultado_final))
